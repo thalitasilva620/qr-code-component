@@ -58,9 +58,8 @@ qr-code-component/
 
 ## 🌐 Deploy
 
-👉 Em breve...
 
-*(Adicione aqui o link quando publicar no Vercel, Netlify ou GitHub Pages)*
+[GitHub-Pages](https://thalitasilva620.github.io/qr-code-component/)
 
 ---
 
