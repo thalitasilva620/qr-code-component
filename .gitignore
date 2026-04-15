@@ -1,0 +1,25 @@
+# Design files
+*.sketch
+*.fig
+*.xd
+
+# Sistema
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Node (se usar futuramente)
+node_modules/
+dist/
+build/
+
+# Ambiente
+.env
+
+# Prettier
+.prettierignore
