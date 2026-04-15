@@ -14,7 +14,7 @@
 
 ## 📸 Preview
 
-![Preview do projeto](./src/images/QR%20code%20Component%20_%20Frontend%20Mentor%20-%20preview.png)
+![Preview do projeto](./src/images/preview.png)
 
 ---
 
