@@ -1,0 +1,55 @@
+@import url('./variables.css');
+@import url('./reset.css');
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-slate-300, hsl(212, 45%, 89%));
+    font-size: var(--font-size-base, 15px);
+    font-family: var(--font-family-base, 'Outfit', sans-serif);
+}
+
+.card {
+    background-color: var(--color-white, hsl(0, 0%, 100%));
+    padding: var(--spacing-md, 1rem);
+    width: 350px;
+    text-align: center;
+    margin-top: 30px;
+    box-shadow: var(--shadow-card);
+    border-radius: var(--radius-lg, 20px);
+}
+
+img {
+    border-radius: var(--radius-md, 10px);
+    margin-bottom: var(--spacing-md, 1rem);
+}
+
+.title {
+    color: var(--color-slate-900, hsl(212, 26%, 16%));
+    font-size: 1.2rem;
+    margin-bottom: var(--spacing-sm, 0.5rem);
+    font-weight: 700;
+}
+
+.info {
+    color: var(--color-slate-500, hsl(216, 15%, 48%));
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+.attribution {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-size: 12px;
+    background-color: var(--color-slate-300);
+    color: var(--color-slate-500);
+    gap: 3px;
+}
+
+a {
+    gap: 2px;
+    color: var(--color-slate-900);
+}
